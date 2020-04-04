@@ -1,0 +1,35 @@
+body{
+	background-image: url(https://www.itl.cat/pngfile/big/186-1865104_3264x2448-man-on-a-rocky-ledge-looking-at.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	font-family: cursive;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-size: 18px;
+}
+#heading{
+	margin: 50px 300px 0px 300px;
+}
+#charyn{
+	margin: 50px 450px 50px 200px;
+	float: left;
+}
+#butakovka{
+	margin: 50px 200px 50px 450px;
+	float: left;
+}
+#bao{
+	margin: 50px 450px 50px 200px;
+	float: left;
+}
+#shymbulak{
+	margin: 50px 200px 50px 475px;
+	float: left;
+}

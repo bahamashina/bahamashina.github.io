@@ -1,0 +1,26 @@
+#shym{ 
+	font-family: cursive;
+	background-color: #b3d1ff;
+}
+#but{ 
+	font-family: cursive;
+	background-color: #b3d1ff;
+}
+#bal{ 
+	font-family: cursive;
+	background-color: #b3d1ff;
+}
+#charyn{ 
+	font-family: cursive;
+	background-color: #b3d1ff;
+}
+p{
+	font-size: 18px;
+	margin: 50px 150px 50px 150px;
+}
+.imajes{
+	float: left;
+	width: 30%;
+	height: 50%;
+	margin: 20px;
+}
